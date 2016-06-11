@@ -906,7 +906,7 @@ To git@github.com:eastossifrage/ousikongjiantest.git
 分支 master 设置为跟踪来自 origin 的远程分支 master。
 ```
 
-像这样执行 git push 命令，当前分支的内容就会被推送给远程仓库 origin 的 master 分支。 -u 参数可以再推送的同时，将 origin 仓库的 master 分支设置为本地仓库当前分支的 upstream （上游）。添加这个参数，将来运行 git pull 命令从远程仓库获取内容时，本地仓库的这个分支就可以直接从 origin 的 master 分支获取内容， 省去了另外添加参数的麻烦。
+像这样执行 git push 命令，当前分支的内容就会被推送给远程仓库 origin 的 master 分支。 -u 参数可以在推送的同时，将 origin 仓库的 master 分支设置为本地仓库当前分支的 upstream （上游）。添加这个参数，将来运行 git pull 命令从远程仓库获取内容时，本地仓库的这个分支就可以直接从 origin 的 master 分支获取内容， 省去了另外添加参数的麻烦。
 
 执行该操作后，当前本地仓库 master 分支的内容将会被推送到 GitHub 的远程仓库中。在 GitHub 上也可以确认远程 master 分支的内容和本地 master 分支相同。
 
