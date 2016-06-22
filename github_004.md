@@ -36,7 +36,7 @@ summary: GitHub 功能丰富，也许你会感到高深莫测，感到惊艳，�
 
 - 3 Pull Requests
 
-显示用户已进行过的 Pull Requests 。通过这里，开发者可以很方便地跟踪 Pull Requests 的后续情况。
+显示用户已进行过的 Pull Request 。通过这里，开发者可以很方便地跟踪 Pull Request 的后续情况。
 
 - 4 Issues
 
